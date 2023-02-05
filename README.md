@@ -20,7 +20,7 @@
 
 
 ## 4. 기능
-전제적인 ui는 JavaSwing으로 구현하였다 
+전제적인 Ui는 JavaSwing으로 구현하였다 
 <details>
 <summary><b>기능 설명 펼치기</b></summary>
 <div markdown="1">
